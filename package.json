@@ -39,7 +39,7 @@
     ]
   },
   "dependencies": {
-    "@mdi/js": "5.3.45",
+    "@mdi/js": "5.4.55",
     "@sentry/browser": "5.20.0",
     "@sentry/integrations": "5.18.1",
     "@sentry/node": "5.18.1",
